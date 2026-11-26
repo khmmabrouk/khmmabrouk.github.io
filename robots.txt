@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khmmabrouk.github.io/sitemap.xml
